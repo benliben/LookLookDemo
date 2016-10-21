@@ -1,1 +1,1 @@
-include ':app', ':rxjavamodel'
+include ':app', ':rxjavamodel', ':shopcar'

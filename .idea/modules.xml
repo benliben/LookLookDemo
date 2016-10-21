@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/LookLookDemo.iml" filepath="$PROJECT_DIR$/LookLookDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxjavamodel/rxjavamodel.iml" filepath="$PROJECT_DIR$/rxjavamodel/rxjavamodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopcar/shopcar.iml" filepath="$PROJECT_DIR$/shopcar/shopcar.iml" />
     </modules>
   </component>
 </project>

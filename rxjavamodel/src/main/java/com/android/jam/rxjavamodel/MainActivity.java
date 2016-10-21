@@ -41,6 +41,9 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        button2.setText("变换操作符");
+        button3.setText("累加函数");
+
     }
 
     @Override
@@ -72,11 +75,13 @@ public class MainActivity extends AppCompatActivity {
                 TextPayActivity.start(this);
                 break;
             case R.id.button_create:
-                createSimple();
+                CreateActivity.start(this);
                 break;
             case R.id.button2:
+                ChangeOperationActivity.start(this);
                 break;
             case R.id.button3:
+                ScanActivity.start(this);
                 break;
             case R.id.button4:
                 break;
